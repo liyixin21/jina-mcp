@@ -19,7 +19,7 @@
 	},
 	"routes": [
 		{
-			"pattern": "mcp.jina.ai",
+			"pattern": "jina.liyixin.vip",
 			"custom_domain": true
 		}
 	]
